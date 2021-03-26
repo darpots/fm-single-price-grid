@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- View Code: [Github](https://github.com/darpots/fm-single-price-grid)
+- Live Site URL: [Example on Netlify](https://kind-goldwasser-a93aeb.netlify.app/)
 
 ## My process
 
